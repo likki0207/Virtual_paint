@@ -4,7 +4,7 @@ through which you are trying to track your hand movement will be painted on the 
 
 # Working:
 
-![](ezgif.com-gif-maker.gif)
+![](working-video.gif)
 
 # Packages required:
 (a) opencv
