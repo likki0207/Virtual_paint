@@ -27,7 +27,7 @@ through which you are trying to track your hand movement will be painted on the 
 (7) finally we need to draw the color on the canvas accoriding to the hand movement
 
 # Working:
-![](working-virtual paint.py)
+![](working-virtual paint.gif)
 
 # Execution
 -> python virtual_paint.py
