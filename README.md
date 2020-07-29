@@ -2,20 +2,20 @@
 This code helps you to understand and track your hand movement using webcam. And the color of the pen 
 through which you are trying to track your hand movement will be painted on the screen
 
-#### Working:
+### Working:
 
 ![](working-video.gif)
 
-#### Packages required:
+### Packages required:
 (a) opencv
 (b) numpy
 
-#### commands for the installation of the packages:
+### commands for the installation of the packages:
 -> pip install numpy
 
 -> pip install opencv-python
 
-#### Steps to build this project are as follows:
+### Steps to build this project are as follows:
 (1) At first we will be importing the required packages
 
 (2) Open the inbuilt Camera
@@ -30,5 +30,5 @@ through which you are trying to track your hand movement will be painted on the 
 
 (7) finally we need to draw the color on the canvas accoriding to the hand movement
 
-#### Execution
+### Execution
 -> python virtual_paint.py
