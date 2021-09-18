@@ -6,6 +6,9 @@ through which you are trying to track your hand movement will be painted on the 
 
 ![](working-video.gif)
 
+### Flowchart
+![image](https://user-images.githubusercontent.com/68856803/133892934-b96da3a5-0677-4918-8084-1773c10b1fe5.png)
+
 ### Packages required:
 (a) opencv
 (b) numpy
