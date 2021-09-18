@@ -69,3 +69,4 @@ while True:
     cv2.imshow("Result", imgResult)
     if cv2.waitKey(1) and 0xFF == ord('q'):
         break
+     
